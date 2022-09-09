@@ -6,7 +6,11 @@
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" width="100" height="100">
 <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/1200px-Android_Studio_icon.svg.png" width="100" height="100">
 <img src="https://www.pngall.com/wp-content/uploads/2016/05/PHP-Logo-Free-Download-PNG.png" width="200" height="100">
-<img src="https://logos-download.com/wp-content/uploads/2016/09/Laravel_logo_wordmark_logotype.png" width="200" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_original_wordmark_logo_icon_146447.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_wordmark_logo_icon_146459.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/laravel_logo_icon_168331.png" width="100" height="100">
+
+
 <br>
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
  
