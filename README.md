@@ -23,6 +23,9 @@
 <img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/640/PNG/512/android-robot-figure-avatar-brand_icon-icons.com_59128.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Wordpress_icon-icons.com_66780.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" width="100" height="100">
 
 
  
