@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=cumacelal)
 <br>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=cumacelal&show_icons=true&theme=gradient) 
-<img src="https://art.pixilart.com/ad150076047d5d3.gif">
+<img src="https://art.pixilart.com/ad150076047d5d3.gif" height="200">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://github.com/adityakamath16/adityakamath16/blob/master/images/tools/logo-stable.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_vertical_logo_icon_168039.png" width="100" height="100">
@@ -17,7 +17,5 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" width="100" height="100">
 
 
-<br>
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png">
  
  
