@@ -15,6 +15,13 @@
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" width="100" height="100">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_flutter_icon_130599.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/arduino_103028.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/1156/PNG/512/1486565573-microsoft-office_81557.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/codeigniter_plain_wordmark_logo_icon_146592.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/46/PNG/128/linux_penguin_animal_9362.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png" width="100" height="100">
+<img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="100" height="100">
 
 
  
